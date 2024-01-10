@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm SARTHI S DARJI</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align=“left" alt=“coding" width=“40" hight="100" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthidarji128&label=Profile%20views&color=0e75b6&style=flat" alt="sarthidarji128" /> </p>
 
-- 🔭 I’m currently working on **FashiWearHouse**
+- 🔭 I’m currently working on ** My FashiWearHouse project**
 
 - 🌱 I’m currently learning **B-Tech course**
 
@@ -30,4 +31,4 @@
 
 
 
-<img align=“right alt=“coding" width=“40" hight="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
+
