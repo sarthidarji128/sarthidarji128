@@ -18,7 +18,7 @@
 <a href="https://twitter.com/sarthidarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthidarji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthi darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthi darji" height="30" width="40" /></a>
 <a href="https://instagram.com/_sarthi." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sarthi." height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/just imagine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just imagine" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3-UVBnKse6cT_cxkRzszJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just imagine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
