@@ -1,6 +1,6 @@
 ![logo](https://github.com/sarthidarji128/sarthidarji128/blob/main/Colorful%20geometric%20Designer%20LinkedIn%20Banner.png)
 
-<h3 align="center">A passionate developer from India</h3>
+<marquee><h3 align="center">A passionate developer from India</h3></marquee>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthidarji128&label=Profile%20views&color=0e75b6&style=flat" alt="sarthidarji128" /> </p>
