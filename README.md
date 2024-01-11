@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **B-Tech course**
 
-- 💬 **hello guys , first of all thanks you for visiting my GitHub profile , I'm passionate to learn new programming languages.**
+- 💬 **hello guys my name is Sarthi im 17 year old, first of all thanks you for visiting my GitHub profile , I'm passionate to learn new programming languages.**
 
 - 📫 How to reach me **2023.sarthi@isu.ac.in**
 
