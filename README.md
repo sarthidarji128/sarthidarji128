@@ -1,4 +1,4 @@
-![logo](https://github.com/sarthidarji128/sarthidarji128/blob/main/Colorful%20geometric%20Designer%20LinkedIn%20Banner.png)
+![logo](https://github.com/sarthidarji128/sarthidarji128/blob/main/creative-director-profile-linked-in-personal-covers-1.png?raw=true)
 
 
 <h3 align="center">A passionate developer from India</h3>
