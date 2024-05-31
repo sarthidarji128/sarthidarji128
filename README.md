@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FashiWearHouse Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **hello guys , first of all thanks you for visiting my GitHub profile , I'm passionate to learn new programming languages.**
 
