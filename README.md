@@ -1,5 +1,5 @@
 ![logo](https://github.com/sarthidarji128/sarthidarji128/blob/main/creative-director-profile-linked-in-personal-covers-1.png?raw=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=sarthidarji128&color=blue)
 
 <h3 align="center">A passionate developer from India</h3>
 
