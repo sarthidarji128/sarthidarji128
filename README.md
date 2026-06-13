@@ -195,7 +195,7 @@ I'm currently working on some exciting projects that will blow your mind:
 
 ```typescript
 const currentlyDoing = {
-    learning: ["Advanced React Patterns", "Docker & Kubernetes", "System Design"],
+    learning: ["CYBERSEC", "Docker & Kubernetes", "System Design"],
     building: ["Portfolio v3.0", "E-Commerce Platform", "Tech Blog"],
     reading: "Clean Code by Robert C. Martin",
     listening: "Lofi Hip Hop Radio 📻"
